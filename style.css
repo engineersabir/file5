@@ -1,18 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-}
-li{
-    list-style: none;
-    text-decoration: none;
-}
-nav{
-    justify-content: space-between;
-    /* justify-content: center; */
-    align-items: center;
-    display: flex;
-    
-}
-a{
-    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
 }
