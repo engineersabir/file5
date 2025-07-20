@@ -3,7 +3,7 @@ userInput.max = new Date().toISOString().split("T")[0];
 function calculateAge(){
     let birthDate = new Date(userInput.value);
 
-    let di =birthDate.getDate();
+    let d1 =birthDate.getDate();
     let m1= birthDate.getMonth()+1;
     let y1 = birthDate.getFullYear();
 
